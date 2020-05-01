@@ -1,2 +1,2 @@
 # Time-Table-Generator
-Mobile Application Development Project Automatic Time-Table Generator using Genetic Algorithm
+Artificial Intelligence Project - Time-Table Generator using Genetic Algorithm.
